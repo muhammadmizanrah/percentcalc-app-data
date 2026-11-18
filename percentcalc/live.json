@@ -1,8 +1,8 @@
 {
-    "version": 1,
-    "sha256": "83fe9c7ee2011e4129708e8c001ba3ed8da958b82236c32849f439d7d6568956",
-    "signature": "ed25519:OuWPlskhtOqjVn6LsQDa+h1PcQvYeWvaMu3smE425yAVzR0YEGMw60nEjkVCdnWQSFqKuEELWXUzK87dZBVQDg==",
-    "bytes": 893,
-    "published_at": "2026-11-18T05:50:33+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/percentcalc-app-data@e13c32d/percentcalc/v1.json"
+    "version": 2,
+    "sha256": "d3860d2c982cafc89e13910c1fa8ee510c3bb6887a2aed854e508e9520a53ea1",
+    "signature": "ed25519:XQDrO2CLYXFKSP9YnQZLCKp8u850kfkqPQzUlwuJmAEI1gnZInnkz/hna+Xu0OxelelpIyGZT4iGm07AlXDSBg==",
+    "bytes": 914,
+    "published_at": "2026-11-18T05:51:50+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/percentcalc-app-data@7030277/percentcalc/v2.json"
 }
